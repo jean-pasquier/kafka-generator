@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "partitions": [
+    {"topic": "raw_measurements", "partition": 0, "replicas": [0]},
+    {"topic": "raw_measurements", "partition": 1, "replicas": [1]},
+    {"topic": "raw_measurements", "partition": 2, "replicas": [0]},
+    {"topic": "raw_measurements", "partition": 3, "replicas": [1]},
+    {"topic": "raw_measurements", "partition": 4, "replicas": [0]},
+    {"topic": "raw_measurements", "partition": 5, "replicas": [1]},
+    {"topic": "raw_measurements", "partition": 6, "replicas": [0]},
+    {"topic": "raw_measurements", "partition": 7, "replicas": [1]}
+  ]
+}
